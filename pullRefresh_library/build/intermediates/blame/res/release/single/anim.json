@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\DownloadeDemo\\zip7\\SimpleApp-master\\pullRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_from_top.xml",
+        "source": "D:\\DownloadeDemo\\zip7\\SimpleApp-master\\pullRefresh_library\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\DownloadeDemo\\zip7\\SimpleApp-master\\pullRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_to_top.xml",
+        "source": "D:\\DownloadeDemo\\zip7\\SimpleApp-master\\pullRefresh_library\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\DownloadeDemo\\zip7\\SimpleApp-master\\pullRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\DownloadeDemo\\zip7\\SimpleApp-master\\pullRefresh_library\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\DownloadeDemo\\zip7\\SimpleApp-master\\pullRefresh_library\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\DownloadeDemo\\zip7\\SimpleApp-master\\pullRefresh_library\\res\\anim\\slide_out_to_bottom.xml"
+    }
+]
